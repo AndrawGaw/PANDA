@@ -2,7 +2,7 @@
 
   Before training you need to modify the *.YAML file path in the config folder, such as:
   ```js
-  data_root: '../FSSD-12/'
+  data_root: '../MetFS-18/'
   train_list: './data_list/train/fold0_defect.txt'
   val_list: './data_list/val/fold0_defect.txt'
   ```
