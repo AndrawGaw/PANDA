@@ -1,10 +1,3 @@
-# Code and datasets 
-Cross Position Aggregation Network for Few-shot Strip Steel Surface Defect Segmentation
-
-## Dataset:
-
-You can contact ours by email to get the dataset-decompression-password（songkc@me.neu.edu.cn）
-
 ## Config：
 
   Before training you need to modify the *.YAML file path in the config folder, such as:
